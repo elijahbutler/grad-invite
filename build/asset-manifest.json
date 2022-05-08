@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/elijahbutler/grad-invite/static/css/main.24bbcf9b.css",
+    "main.js": "/elijahbutler/grad-invite/static/js/main.487e81ff.js",
+    "static/js/787.ae60d234.chunk.js": "/elijahbutler/grad-invite/static/js/787.ae60d234.chunk.js",
+    "static/media/grad.png": "/elijahbutler/grad-invite/static/media/grad.a044af66b0c295ba8b0f.png",
+    "index.html": "/elijahbutler/grad-invite/index.html",
+    "main.24bbcf9b.css.map": "/elijahbutler/grad-invite/static/css/main.24bbcf9b.css.map",
+    "main.487e81ff.js.map": "/elijahbutler/grad-invite/static/js/main.487e81ff.js.map",
+    "787.ae60d234.chunk.js.map": "/elijahbutler/grad-invite/static/js/787.ae60d234.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24bbcf9b.css",
+    "static/js/main.487e81ff.js"
+  ]
+}
